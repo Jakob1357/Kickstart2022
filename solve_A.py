@@ -4,7 +4,7 @@ Created on Sat Feb  5 11:47:00 2022
 
 @author: DELL
 """
-#1
+#1 Iloveyou
 '''
 a = int(input())
 q = []
